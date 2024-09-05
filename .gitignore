@@ -1,0 +1,4 @@
+*.tar.xz
+zig-linux-x86*
+.zig-cache
+zig-out
